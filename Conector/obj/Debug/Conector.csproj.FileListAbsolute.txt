@@ -1,0 +1,12 @@
+C:\Users\Aleja\source\repos\ApiVideojuegos\Conector\bin\Debug\Conector.dll.config
+C:\Users\Aleja\source\repos\ApiVideojuegos\Conector\bin\Debug\Conector.dll
+C:\Users\Aleja\source\repos\ApiVideojuegos\Conector\bin\Debug\Conector.pdb
+C:\Users\Aleja\source\repos\ApiVideojuegos\Conector\bin\Debug\EntityFramework.dll
+C:\Users\Aleja\source\repos\ApiVideojuegos\Conector\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Aleja\source\repos\ApiVideojuegos\Conector\bin\Debug\EntityFramework.xml
+C:\Users\Aleja\source\repos\ApiVideojuegos\Conector\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Aleja\source\repos\ApiVideojuegos\Conector\obj\Debug\Conector.csproj.AssemblyReference.cache
+C:\Users\Aleja\source\repos\ApiVideojuegos\Conector\obj\Debug\Conector.csproj.CoreCompileInputs.cache
+C:\Users\Aleja\source\repos\ApiVideojuegos\Conector\obj\Debug\Conector.csproj.Up2Date
+C:\Users\Aleja\source\repos\ApiVideojuegos\Conector\obj\Debug\Conector.dll
+C:\Users\Aleja\source\repos\ApiVideojuegos\Conector\obj\Debug\Conector.pdb
